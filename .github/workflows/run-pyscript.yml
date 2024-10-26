@@ -16,5 +16,6 @@ jobs:
         python-version: '3.x'  
 
     - name: Run Python Script
-      run: python app.py  
+      run: python taskC/app.py  
 
+  
